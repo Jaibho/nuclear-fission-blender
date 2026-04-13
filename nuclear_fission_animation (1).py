@@ -671,9 +671,9 @@ print("  Frame 230 – 289  → Absorption → U-236 unstable")
 print("  Frame 290 – 399  → FISSION! Ba-141 + Kr-92 + 3n + energy")
 print("  Frame 400 – 550  → Chain Reaction")
 print("")
-print("  Branding:
-  ✔  GYRUS SULCUS engraved on reactor lab back wall
-  ✔  © GYRUS SULCUS roaming watermark (full animation)
-
-  ► Press SPACE in the 3D Viewport to play!")
+print("  Branding:")
+print("  [OK] GYRUS SULCUS engraved on reactor lab back wall")
+print("  [OK] GYRUS SULCUS roaming watermark (full animation)")
+print("")
+print("  >> Press SPACE in the 3D Viewport to play!")
 print("=" * 55)
